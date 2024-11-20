@@ -4,7 +4,6 @@
 This assignment is designed to help you build foundational knowledge of HTML5, understand its structure, and practice creating web page content using semantic elements.
 
 ## Learning Objectives
-
 By completing this assignment, you will:
 
   Understand the structure and purpose of HTML5 in web development.
